@@ -64,6 +64,4 @@ This system helps financial institutions:
 - **Mockito**: Mocking framework for unit tests
 - **Lombok**: Reduces boilerplate code
 
-## 🏗️ System Architecture
 
-The system follows a modular architecture with the following components:
