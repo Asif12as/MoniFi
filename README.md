@@ -5,7 +5,7 @@
 
 A robust, real-time financial transaction monitoring system that automatically detects suspicious activities and triggers immediate notifications through configurable workflows.
 # N8N
-![](Chat-Model-preview1.JPG)
+![](n8n integration fraud alert.JPG)
 ## 📋 Table of Contents
 
 - [Overview](#overview)
