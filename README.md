@@ -22,6 +22,7 @@ A robust, real-time financial transaction monitoring system that automatically d
 
 ## 🔍 Overview
 
+
 The Financial Transaction Monitoring System is designed to detect potentially fraudulent financial transactions in real-time. It leverages rule-based monitoring to identify suspicious activities, generates alerts based on predefined criteria, and automatically notifies relevant stakeholders through customizable notification workflows.
 
 This system helps financial institutions:
