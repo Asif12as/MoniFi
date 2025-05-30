@@ -1,6 +1,5 @@
 # MoniFi
 # A Financial Transaction Monitoring System
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A robust, real-time financial transaction monitoring system that automatically detects suspicious activities and triggers immediate notifications through configurable workflows.
